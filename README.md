@@ -5,7 +5,7 @@ The main task of this project is to apply several Supervised Machine learning cl
 
 ### Description:-
 
-My second assignment for the Machine Learning course - DV2542. The main task is to compare various Supervised Machine Learning classifiers on the Spambase dataset from the UCI Machine Learning Repository and perform Significance test thereafter.
+My second assignment for the Machine Learning course - DV2542. The main task is to compare various Supervised Machine Learning classifiers on the Spambase dataset from the UCI Machine Learning Repository and perform Significance tests thereafter.
 
 The dataset is collected from the UCI Machine Learning Repository.
 Link:- https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
